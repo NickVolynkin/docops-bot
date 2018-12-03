@@ -13,6 +13,6 @@ These features will be the core of docops-bot workflow.
 
 *   authoring in Markdown (and, someday, rST & AsciiDoc);
 *   versioning with git;
-*   publishing, editing and removing posts with :code:`git push`.
+*   publishing, editing and removing posts with  :code:`git commit` & :code:`git push`.
 
 
