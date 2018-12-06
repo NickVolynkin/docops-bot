@@ -13,6 +13,7 @@ wemake-python-styleguide = "*"
 watchdog = "*"
 sphinx-rtd-theme = "*"
 doc8 = "*"
+flake8-per-file-ignores = "*"
 
 [requires]
 python_version = "3.6"
